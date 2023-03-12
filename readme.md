@@ -66,7 +66,13 @@ Here are some screenshots of li.influcracy.com:
 <img src="https://user-images.githubusercontent.com/47497598/224521405-aa1a4a40-0689-49de-8fcf-e1218ff0bab4.png" width=140/>
 </div>
 
-
+## Create a post using chatgpt Screen
+<div>
+<img src="https://user-images.githubusercontent.com/47497598/224521530-54efc224-e32b-4271-8aab-d4d544378f6b.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224521579-a43cddc8-eb31-476a-b237-e2363c6a3256.png" width=140/>
+  <img src="https://user-images.githubusercontent.com/47497598/224521582-8d484b9c-12fc-470f-b4c1-3236496cb5c5.png" width=140/>
+  <img src="https://user-images.githubusercontent.com/47497598/224521586-7436d26b-7fdd-44e1-a372-4d45b29a881a.png" width=140/>
+</div>
 
 
 
