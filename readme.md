@@ -29,29 +29,45 @@ Here are some screenshots of li.influcracy.com:
 
 ### Login Screen
 <div>
-<img src="https://user-images.githubusercontent.com/47497598/224520728-e4e9ddf4-ce07-4d21-97c3-084722546f92.png" width=720/>
-<img src="https://user-images.githubusercontent.com/47497598/224520820-7f3ecf81-6db6-4dcb-8cf8-e1b1ef18cb94.png" width=160/>
+<img src="https://user-images.githubusercontent.com/47497598/224520728-e4e9ddf4-ce07-4d21-97c3-084722546f92.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224520820-7f3ecf81-6db6-4dcb-8cf8-e1b1ef18cb94.png" width=140/>
 </div>
 
 ### Signup Screen
 <div>
-<img src="https://user-images.githubusercontent.com/47497598/224520947-d28e1211-137f-420e-9fda-913d72dd5f17.png" width=720/>
-<img src="https://user-images.githubusercontent.com/47497598/224520988-d4fda0c1-aca7-4adf-a516-796756405d28.png" width=200/>
-<img src="https://user-images.githubusercontent.com/47497598/224521002-01507715-d8d0-418b-9196-dfc4f3f24186.png" width=720/>
-<img src="https://user-images.githubusercontent.com/47497598/224521011-3718560d-1057-4e95-b4a4-5cddd8dc74a1.png" width=160/>
+<img src="https://user-images.githubusercontent.com/47497598/224520947-d28e1211-137f-420e-9fda-913d72dd5f17.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224520988-d4fda0c1-aca7-4adf-a516-796756405d28.png" width=180/>
+<img src="https://user-images.githubusercontent.com/47497598/224521002-01507715-d8d0-418b-9196-dfc4f3f24186.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224521011-3718560d-1057-4e95-b4a4-5cddd8dc74a1.png" width=140/>
 </div>
 
 ### Dashboard Screen
 <div>
-<img src="https://user-images.githubusercontent.com/47497598/224521173-9167bff8-d618-4ce2-8bb4-63ea2f7d50ed.png" width=720/>
-<img src="https://user-images.githubusercontent.com/47497598/224521123-d6db06b6-6ac0-4bbd-9080-5d3a5d6a242f.png" width=160/>
+<img src="https://user-images.githubusercontent.com/47497598/224521173-9167bff8-d618-4ce2-8bb4-63ea2f7d50ed.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224521123-d6db06b6-6ac0-4bbd-9080-5d3a5d6a242f.png" width=140/>
 </div>
 
 ## Single Post
 <div>
-<img src="https://user-images.githubusercontent.com/47497598/224521201-62862f5d-c97e-4ce1-80b1-1647793de669.png" width=720/>
-<img src="https://user-images.githubusercontent.com/47497598/224521212-3b7dc918-9a36-4baa-9fa1-08d964f7d21a.png" width=160/>
+<img src="https://user-images.githubusercontent.com/47497598/224521212-3b7dc918-9a36-4baa-9fa1-08d964f7d21a.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224521201-62862f5d-c97e-4ce1-80b1-1647793de669.png" width=140/>
 </div>
+
+## Wallet Screen
+<div>
+<img src="https://user-images.githubusercontent.com/47497598/224521344-154a0173-f8d1-4d85-ba4a-b7a880ce0787.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224521373-a2ec01ae-396e-4c54-af94-dea280668b85.png" width=140/>
+</div>
+
+
+## Promote Screen
+<div>
+<img src="https://user-images.githubusercontent.com/47497598/224521391-f73b2fcd-1770-475c-a7c3-fae1b7c4aeb3.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224521405-aa1a4a40-0689-49de-8fcf-e1218ff0bab4.png" width=140/>
+</div>
+
+
+
 
 
 
